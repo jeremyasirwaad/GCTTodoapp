@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "todoapp",
-    "slug": "todoapp",
+    "name": "GCTtodocompetiton45",
+    "slug": "gcttodocompetiton45",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -30,6 +30,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": ""
+    "description": "",
+    "githubUrl": "https://github.com/jeremyasirwaad/GCTTodoapp"
   }
 }

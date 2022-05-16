@@ -11,7 +11,7 @@ import React, { useEffect, useState } from "react";
 import { SafeAreaView } from "react-native-safe-area-context";
 
 import { useNavigation } from "@react-navigation/native";
-import { async } from "@firebase/util";
+
 
 const Homepage = () => {
 	const navigation = useNavigation();

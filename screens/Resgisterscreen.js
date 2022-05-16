@@ -8,11 +8,8 @@ import {
 } from "react-native";
 import React, { useEffect, useState } from "react";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { authentication } from "../firebase/firebase";
-import {
-	createUserWithEmailAndPassword,
-	signInWithEmailAndPassword
-} from "firebase/auth";
+
+
 import { useNavigation } from "@react-navigation/native";
 
 const Resgisterscreen = () => {
